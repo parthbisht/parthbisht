@@ -1,1 +1,109 @@
-Welcome to my GitHub profile! Here you'll find a collection of my projects, code snippets, and explorations. I enjoy working on diverse projects that challenge me and help me grow as a developer.
+<!-- HERO SECTION -->
+
+<h1 align="center">
+  ⚡ Hey, I'm Parth Raj Bisht ⚡
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Web3+Developer;DeFi+Builder;3D+UI+Enthusiast;Building+Future+of+Internet" />
+</p>
+
+---
+
+<!-- 3D / CYBER INTRO -->
+
+<p align="center">
+  🌌 Building immersive digital experiences where <b>Web2 meets Web3</b>  
+</p>
+
+<p align="center">
+  <a href="https://parthrajbisht.vercel.app/">
+    🚀 Explore My Portfolio
+  </a>
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+```js
+const parth = {
+  role: "Full Stack Engineer",
+  focus: ["Web3", "DeFi", "3D UI"],
+  tech: ["React", "Node.js", "Ethers.js", "Solidity"],
+  currentMission: "Building next-gen decentralized applications",
+  funFact: "Debugging by day, playing guitar by night 🎸"
+};
+```
+
+---
+
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,redux,aws,docker,solidity" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 Web3 Asset Hub
+
+* Algolia-powered search + discovery
+* Wallet integration using Ethers.js
+* Redux-based state management
+
+### 💸 DeFi Dashboard
+
+* Smart contract interaction
+* Real-time blockchain data
+* Clean + scalable architecture
+
+---
+
+## 📊 GitHub Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧬 Contribution Snake (because why not 🐍)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="https://twitter.com/YOUR_LINK">Twitter</a> •
+  <a href="https://parthrajbisht.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+## ⚡ Current Obsession
+
+> 🧪 Building a **Post-Quantum Secure Crypto Wallet**
+> 🔮 Exploring the future of cryptography + blockchain
+
+---
+
+## 🧠 Philosophy
+
+> “Code is not just logic — it’s an experience.”
+
+---
+
+<!-- GLITCH FOOTER -->
+
+<p align="center">
+  ⚡ Crafted with chaos, coffee & curiosity ⚡
+</p>
