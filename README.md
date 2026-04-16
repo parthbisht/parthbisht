@@ -65,8 +65,8 @@ const parth = {
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://twitter.com/YOUR_LINK">Twitter</a> •
+  <a href="https://www.linkedin.com/in/parth-raj-bisht-25a214171/">LinkedIn</a> •
+  <a href="https://x.com/parthbisht2">Twitter</a> •
   <a href="https://parthrajbisht.vercel.app/">Portfolio</a>
 </p>
 
